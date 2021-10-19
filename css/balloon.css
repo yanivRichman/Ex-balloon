@@ -1,0 +1,47 @@
+.sky {
+    background-color: rgb(0, 195, 255);
+    height: 790px;
+    padding: 20px;
+}
+
+.balloon {
+    border: 2px solid wheat;
+    height: 150px;
+    width: 100px;
+    margin-top: 20px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.balloon1 {
+    background-color: red;
+    left: 20%;
+    bottom: 0%;
+}
+
+.balloon2 {
+    background-color: rgb(238, 255, 0);
+    left: 35%;
+    bottom: 0%;
+}
+
+.balloon3 {
+    background-color: rgb(60, 255, 0);
+    left: 50%;
+    bottom: 0%;
+}
+
+.balloon4 {
+    background-color: rgb(255, 0, 157);
+    left: 65%;
+    bottom: 0%;
+}
+
+.balloon5 {
+    background-color: rgb(255, 72, 0);
+    left: 80%;
+    bottom: 0%;
+}
+
+
+
